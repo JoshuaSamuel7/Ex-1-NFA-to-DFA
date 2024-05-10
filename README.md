@@ -1,6 +1,6 @@
 # Ex. No : 1	
 ## CONVERSION OF NON-DETERMINISTIC FINITE AUTOMATON (NFA) TO DETERMINISTIC FINITE AUTOMATON (DFA)
-## Register Number : 212222100044
+## Register Number : 212222040065
 ## Date :14.02.2024
 ## AIM   
 To write a C program for Conversion of Non-Deterministic Finite Automaton (NFA) To Deterministic Finite Automaton (DFA).
